@@ -22,7 +22,9 @@ colorscheme mongolia_night
 
 ## Basic palette
 From [Tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme)
+
 ![](https://www.dropbox.com/s/3c5r2ayavu5cpsa/vim-5.png?dl=1)
+
 For rxvt-unicode-256color user, copy
 
 ```bash
