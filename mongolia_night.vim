@@ -1,3 +1,9 @@
+" Vim color scheme -- Mongolia-Night
+" Maintainer: A1phaZer0 <ini.universe/gmail>
+" Last Change: 2016/6/27
+" Version: 0.1
+
+
 set background=dark
 highlight clear
 if exists("syntax_on")
@@ -106,3 +112,9 @@ highlight YcmErrorLine	ctermfg=15	ctermbg=9	cterm=NONE
 highlight YcmWarningLine ctermfg=0	ctermbg=3	cterm=bold
 highlight YcmErrorSection ctermfg=15	ctermbg=9	cterm=NONE
 highlight YcmWarningSection ctermfg=0	ctermbg=3	cterm=bold
+
+" Spell Check
+highlight SpellBad	ctermfg=15	ctermbg=9	cterm=underline
+highlight SpellCap	ctermfg=0	ctermbg=3	cterm=underline
+highlight SpellRare	ctermfg=20	ctermbg=NONE	cterm=underline
+highlight SpellCap	ctermfg=12	ctermbg=NONE	cterm=underline
