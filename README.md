@@ -4,24 +4,25 @@ A dark VIM theme for terminals.
 
 ## Requirements
 
--   Vim 7.3+ on Linux, using a terminal that supports 256 colours.
+- Vim 7.3+ on Linux, using a terminal that supports 256 colours.
+
 ## Installation
-1.  Copy colors/mongolia-night.vim to:
+1.  Copy colors/mongolia_night.vim to:
 
 ```bash
-~/.vim/colors/mongolia-night.vim
+~/.vim/colors/mongolia_night.vim
 ```
 
 2.  Add to ~/.vimrc:
 
 ```vim
 set background=dark
-colorscheme mongolia-night
+colorscheme mongolia_night
 ```
 
 ## Basic palette
 From [Tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme)
-![](https://www.dropbox.com/s/3c5r2ayavu5cpsa/vim-5.png?dl=0)
+![](https://www.dropbox.com/s/3c5r2ayavu5cpsa/vim-5.png?dl=1)
 For rxvt-unicode-256color user, copy
 
 ```bash
@@ -66,7 +67,7 @@ cat addcolor.sh >> ~/.bashrc
 
 ## Screenshots
 
-![vim-1](https://www.dropbox.com/s/yyc6tg1kpd15wwo/vim-1.png?dl=0)
-![vim-2](https://www.dropbox.com/s/n3tgs89qbnijsjp/vim-2.png?dl=0)
-![vim-3](https://www.dropbox.com/s/7aihdjvwif5983x/vim-3.png?dl=0)
+![vim-1](https://www.dropbox.com/s/yyc6tg1kpd15wwo/vim-1.png?dl=1)
+![vim-2](https://www.dropbox.com/s/n3tgs89qbnijsjp/vim-2.png?dl=1)
+![vim-3](https://www.dropbox.com/s/7aihdjvwif5983x/vim-3.png?dl=1)
 
