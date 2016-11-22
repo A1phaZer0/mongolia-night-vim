@@ -1,9 +1,3 @@
-" Vim color scheme -- Mongolia-Night
-" Maintainer: A1phaZer0 <ini.universe/gmail>
-" Last Change: 2016/6/27
-" Version: 0.1
-
-
 set background=dark
 highlight clear
 if exists("syntax_on")
@@ -51,6 +45,8 @@ highlight Delimiter	ctermfg=17	ctermbg=NONE
 " Current line number
 highlight LineNr	ctermfg=4	ctermbg=NONE
 highlight CursorLineNr	ctermfg=11	ctermbg=NONE
+" Indent Line
+highlight Conceal	ctermfg=239	ctermbg=NONE	cterm=NONE
 " Matching bracket
 highlight MatchParen 	ctermfg=8	ctermbg=13	cterm=bold
 " highlight typedef _t as type.
@@ -112,9 +108,3 @@ highlight YcmErrorLine	ctermfg=15	ctermbg=9	cterm=NONE
 highlight YcmWarningLine ctermfg=0	ctermbg=3	cterm=bold
 highlight YcmErrorSection ctermfg=15	ctermbg=9	cterm=NONE
 highlight YcmWarningSection ctermfg=0	ctermbg=3	cterm=bold
-
-" Spell Check
-highlight SpellBad	ctermfg=15	ctermbg=9	cterm=underline
-highlight SpellCap	ctermfg=0	ctermbg=3	cterm=underline
-highlight SpellRare	ctermfg=20	ctermbg=NONE	cterm=underline
-highlight SpellCap	ctermfg=12	ctermbg=NONE	cterm=underline
