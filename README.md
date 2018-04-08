@@ -69,7 +69,7 @@ cat addcolor.sh >> ~/.bashrc
 
 ## Screenshots
 
-![vim-1](https://www.dropbox.com/s/yyc6tg1kpd15wwo/vim-1.png?dl=1)
-![vim-2](https://www.dropbox.com/s/n3tgs89qbnijsjp/vim-2.png?dl=1)
-![vim-3](https://www.dropbox.com/s/7aihdjvwif5983x/vim-3.png?dl=1)
+![vim-1](https://i.imgur.com/FFRJWzU.png)
+![vim-2](https://i.imgur.com/tyNHS9N.png)
+![vim-3](https://i.imgur.com/hk4skon.png)
 
