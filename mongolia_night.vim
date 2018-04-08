@@ -53,7 +53,7 @@ highlight MatchParen 	ctermfg=8	ctermbg=13	cterm=bold
 " http://blog.cdleary.com/2007/08/matching-_t-types-in-your-vimrc/
 " syntax match cType	/\w\+_t\ze\W/
 " put it in syntax plugin
-
+highlight Todo		ctermfg=9	ctermbg=11
 
 " Diff
 highlight DiffAdd	ctermfg=8	ctermbg=4	cterm=bold
